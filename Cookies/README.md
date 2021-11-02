@@ -1,0 +1,2 @@
+Cookie 18
+picoCTF{3v3ry1_l0v3s_c00k135_a1f5bdb7}
